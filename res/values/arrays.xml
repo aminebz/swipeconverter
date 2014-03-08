@@ -19,5 +19,19 @@
         <item>miles</item> 
         
       </string-array>
-    
+      
+     
+     <string-array name="Mass" >
+        <item>grams</item> 
+        <item>ounces</item>
+        <item>metric tons</item>
+        <item>pounds</item>
+        <item>kilograms</item>
+        <item>milligrams</item>
+        
+     </string-array>
+
+
+     
+     
 </resources>
