@@ -1,33 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    
+    <string-array name="Types">
+        
+        <item>Temperature</item>
+        <item>Distance</item>
+        <item>Mass</item>
+        <item>Speed</item>
+        
+        
+    </string-array>
+    
     <string-array name="Temperature" >
         
-        <item>kelvin</item>
-        <item>celsius</item>
-        <item>fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
         
     </string-array>
     
     
      <string-array name="Distance" >
-        <item>meters</item>
-        <item>centimeters</item>
-        <item>millimeters</item>
-        <item>kilometers</item>
-        <item>inches</item>
-        <item>feet</item>
-        <item>miles</item> 
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+        <item>Kilometers</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Miles</item> 
         
       </string-array>
       
      
      <string-array name="Mass" >
-        <item>grams</item> 
-        <item>ounces</item>
-        <item>metric tons</item>
-        <item>pounds</item>
-        <item>kilograms</item>
-        <item>milligrams</item>
+        <item>Grams</item> 
+        <item>Ounces</item>
+        <item>Metric tons</item>
+        <item>Pounds</item>
+        <item>Kilograms</item>
+        <item>Milligrams</item>
+     </string-array>
+     
+     <string-array name="Speed">
+         <item>Feet/Second</item>
+         <item>Miles/Hour</item>
+         <item>Kilometers/Hour</item>
+         <item>Meters/Second</item>
+         <item>Knots</item>
      </string-array>
      
      
